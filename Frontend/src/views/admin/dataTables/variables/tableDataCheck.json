@@ -1,0 +1,220 @@
+[
+  {
+      "name": [
+          "Visakhapatnam",
+          false
+      ],
+      "No2": 26.85,
+      "So2": 2.1,
+      "Co": 0.59,
+      "O3": 9.0,
+      "CO2": 78
+  },
+  {
+      "name": [
+          "Patna",
+          false
+      ],
+      "No2": 31.15,
+      "So2": 3.99,
+      "Co": 0.82
+  },
+  {
+      "name": [
+          "Gurugram",
+          false
+      ],
+      "No2": 10.58,
+      "So2": 7.57,
+      "Co": 1.11
+  },
+  {
+      "name": [
+          "Shillong",
+          false
+      ],
+      "No2": 2.7,
+      "So2": 4.29,
+      "Co": 0.1
+  },
+  {
+      "name": [
+          "Mumbai",
+          false
+      ],
+      "No2": 5.57,
+      "So2": 13.18,
+      "Co": 0.37
+  },
+  {
+      "name": [
+          "Delhi",
+          false
+      ],
+      "No2": 21.05,
+      "So2": 11.15,
+      "Co": 0.97
+  },
+  {
+      "name": [
+          "Lucknow",
+          false
+      ],
+      "No2": 14.44,
+      "So2": 6.02,
+      "Co": 0.73
+  },
+  {
+      "name": [
+          "Aizawl",
+          false
+      ],
+      "No2": 0.07,
+      "So2": 2.07,
+      "Co": 0.02
+  },
+  {
+      "name": [
+          "Kolkata",
+          false
+      ],
+      "No2": 10.01,
+      "So2": 4.32,
+      "Co": 0.3
+  },
+  {
+      "name": [
+          "Ahmedabad",
+          false
+      ],
+      "No2": 35.04,
+      "So2": 14.4,
+      "Co": 0.28
+  },
+  {
+      "name": [
+          "Bengaluru",
+          false
+      ],
+      "No2": 13.25,
+      "So2": 6.66,
+      "Co": 0.54
+  },
+  {
+      "name": [
+          "Bhopal",
+          false
+      ],
+      "No2": 5.12,
+      "So2": 12.45,
+      "Co": 0.35
+  },
+  {
+      "name": [
+          "Kochi",
+          false
+      ],
+      "No2": 2.5,
+      "So2": 20.77,
+      "Co": 1.92
+  },
+  {
+      "name": [
+          "Guwahati",
+          false
+      ],
+      "No2": 6.59,
+      "So2": 16.07,
+      "Co": 0.61
+  },
+  {
+      "name": [
+          "Talcher",
+          false
+      ],
+      "No2": 29.36,
+      "So2": 14.42,
+      "Co": 1.52
+  },
+  {
+      "name": [
+          "Jaipur",
+          false
+      ],
+      "No2": 10.88,
+      "So2": 5.19,
+      "Co": 0.54
+  },
+  {
+      "name": [
+          "Thiruvananthapuram",
+          false
+      ],
+      "No2": 2.3,
+      "So2": 6.15,
+      "Co": 0.42
+  },
+  {
+      "name": [
+          "Chandigarh",
+          false
+      ],
+      "No2": 9.87,
+      "So2": 14.91,
+      "Co": 0.33
+  },
+  {
+      "name": [
+          "Hyderabad",
+          false
+      ],
+      "No2": 27.18,
+      "So2": 6.07,
+      "Co": 0.43
+  },
+  {
+      "name": [
+          "Amritsar",
+          false
+      ],
+      "No2": 15.11,
+      "So2": 3.48,
+      "Co": 0.59
+  },
+  {
+      "name": [
+          "Chennai",
+          false
+      ],
+      "No2": 10.72,
+      "So2": 9.23,
+      "Co": 1.02
+  },
+  {
+      "name": [
+          "Amaravati",
+          false
+      ],
+      "No2": 9.68,
+      "So2": 10.88,
+      "Co": 0.59
+  },
+  {
+      "name": [
+          "Brajrajnagar",
+          false
+      ],
+      "No2": 3.37,
+      "So2": 7.47,
+      "Co": 0.43
+  },
+  {
+      "name": [
+          "Coimbatore",
+          false
+      ],
+      "No2": 32.78,
+      "So2": 6.32,
+      "Co": 0.95
+  }
+]
